@@ -70,7 +70,7 @@ body {
     width: 500px;
   }
   .details {
-    background: lightgray;
+    background: var(--first-color);
     color: white;
     border-radius: 20px;
     padding: 10px 20px;
