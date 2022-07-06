@@ -98,3 +98,22 @@ body {
   .txt-answer {
     border-top: 1px solid white;
   }
+  .contactUs {
+    display: flex;
+    flex-direction: column;
+  }
+  .contactUs-title {
+    margin-bottom: 20px;
+  }
+  .contactUs-mail {
+    color: black;
+    font-size: 1.3rem;
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+  }
+  .contactUs-mail svg {
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+  }
