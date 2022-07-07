@@ -50,8 +50,20 @@ var itemsData = [
       ],
       title: "Bentley",
       desc: "Black Bentley Continental GT per zotni",
-      location: "TMitrovice",
+      location: "Mitrovice",
       href: "",
-    }
+    },
+    {
+    category: ["Mercedes", "Mitrovice"],
+    img: [
+      "./assets/img/cars/mercedesgls/mercfoto1.webp",
+      "./assets/img/cars/mercedesgls/mercfoto2.webp",
+      "./assets/img/cars/mercedesgls/mercfoto3.jpg"
+    ],
+    title: "Mercedes",
+    desc: "Mercedes GLS White vetem per Big Bossa",
+    location: "Mitrovice",
+    href: "",
+  }
   ];
   
