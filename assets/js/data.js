@@ -60,8 +60,20 @@ var itemsData = [
       "./assets/img/cars/mercedesgls/mercfoto2.webp",
       "./assets/img/cars/mercedesgls/mercfoto3.jpg"
     ],
-    title: "Mercedes",
+    title: "Mercedes GLS",
     desc: "Mercedes GLS White vetem per Big Bossa",
+    location: "Mitrovice",
+    href: "",
+  },
+  {
+    category: ["BMW X5", "Mitrovice"],
+    img: [
+      "./assets/img/cars/bmwX5/bmwfoto1.jpg",
+      "./assets/img/cars/bmwX5/bmwfoto2.jfif",
+      "./assets/img/cars/bmwX5/bmwfoto3.jpg",
+    ],
+    title: "BMW X5 MPOWER",
+    desc: "BMW X5 MPOWER per njerz te forte",
     location: "Mitrovice",
     href: "",
   }
