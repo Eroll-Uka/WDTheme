@@ -40,5 +40,18 @@ var itemsData = [
       location: "Prishtinë",
       href: "",
     },
+    {
+      category: ["tetjera", "tavnik"],
+      img: [
+        "./assets/img/cars/bentley/bentleyfoto1.jpg",
+        "./assets/img/cars/bentley/bentleyfoto2.jpg",
+        "./assets/img/cars/bentley/bentleyfoto3.jpg",
+        "./assets/img/cars/bentley/bentleyfoto4.jpg"
+      ],
+      title: "Bentley",
+      desc: "Black Bentley Continental GT per zotni",
+      location: "TMitrovice",
+      href: "",
+    }
   ];
   
